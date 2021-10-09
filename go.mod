@@ -1,4 +1,4 @@
-module github.com/Sanskrita2001/insta
+module github.com/rishavnaskar/insta
 
 go 1.17
 

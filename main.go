@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/Sanskrita2001/insta/routers"
+	"github.com/rishavnaskar/insta/routers"
 )
 
 func main() {
